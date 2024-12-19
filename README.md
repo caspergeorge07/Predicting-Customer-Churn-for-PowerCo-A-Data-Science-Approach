@@ -78,15 +78,6 @@ Three datasets were used:
 
 ---
 
-## **Sample Visualizations**
-1. **Price Sensitivity vs Churn**:  
-   *(Add relevant image link here)*
-
-2. **Feature Importance**:  
-   *(Add relevant image link here)*
-
----
-
 ## **Future Work**
 - Incorporate time-series analysis for price trends.
 - Extend the model to include customer satisfaction scores.
