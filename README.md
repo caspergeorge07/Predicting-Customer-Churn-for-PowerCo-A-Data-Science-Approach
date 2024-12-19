@@ -12,11 +12,11 @@ The project involves:
 
 ## **Data Description**
 Three datasets were used:
-1. **Customer Data (`client_data.csv`)**:
+1. **Customer Data (`client_data(1).csv`)**:
    - Includes customer characteristics such as electricity and gas consumption, contract dates, and churn status.
    - Key fields: `cons_12m`, `forecast_cons_12m`, `margin_net_pow_ele`, `churn`.
 
-2. **Price Data (`price_data.csv`)**:
+2. **Price Data (`price_data(1).csv`)**:
    - Includes historical prices for electricity and gas, categorized by off-peak, peak, and mid-peak periods.
    - Key fields: `price_off_peak_var`, `price_peak_var`, `price_mid_peak_var`.
 
